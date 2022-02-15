@@ -1,3 +1,3 @@
 # JavaProjects
 
-All the Java handsons done during my internship.
+All my Learning/Practice/Research Java handsons done during my internship.
